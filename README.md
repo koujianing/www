@@ -1,10 +1,12 @@
 # www
 ---
 welcome to my page
-#yiji
-##erji
-###sanji
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, officia!
+##erji
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, officia!
+###sanji
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, officia!
 *hhhhhh*
 
 **jnjnj**
@@ -12,7 +14,7 @@ welcome to my page
 
 ***huhuhu***
 
-[百度](http://baidu.com)
+[百度](http://www.baidu.com)
 
 ```C
     #include <stdio.h>
